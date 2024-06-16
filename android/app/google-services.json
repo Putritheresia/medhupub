@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147783184751",
+    "project_id": "medhub-728c9",
+    "storage_bucket": "medhub-728c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147783184751:android:b120537e07882ae542b89a",
+        "android_client_info": {
+          "package_name": "com.example.diabetease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgABW44ORLWhizQJX7aIBSsySoxvboai0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
